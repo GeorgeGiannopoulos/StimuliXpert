@@ -15,7 +15,7 @@ The latest official release of StimuliXpert can be downloaded [here](https://git
 For information on previous releases and version changelists, go [here](https://github.com/GeorgeGiannopoulos/StimuliXpert/releases)
 
 <p align="center">
-  <img alt="StimuliXpert" src="https://github.com/GeorgeGiannopoulos/StimuliXpert/blob/master/docs/screenshots/main_window.png">
+  <img alt="StimuliXpert" src="https://raw.githubusercontent.com/wiki/GeorgeGiannopoulos/StimuliXpert/screenshots/main_window.png">
 </p>
 
 ## Features:
