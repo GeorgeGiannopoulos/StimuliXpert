@@ -1,0 +1,132 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StimuliXpert.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Counter_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 48pt</Value>
+    </Setting>
+    <Setting Name="Counter_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Cross_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 48pt</Value>
+    </Setting>
+    <Setting Name="Cross_Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Default_Counter_Font" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Microsoft Sans Serif, 48pt</Value>
+    </Setting>
+    <Setting Name="Default_Counter_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Default_Cross_Font" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Microsoft Sans Serif, 48pt</Value>
+    </Setting>
+    <Setting Name="Default_Cross_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Warnings_Counter_Cross" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Default_Warnings_Counter_Cross" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Output_Path_Visible" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Output_Path_Visible" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Cursor_log" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Cursor_log" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Normalize_Value" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Default_Normalize_Value" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="Default_Extension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="Delimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">space</Value>
+    </Setting>
+    <Setting Name="Default_Delimiter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">space</Value>
+    </Setting>
+    <Setting Name="Header" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_header" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Display_Time" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Default_Display_Time" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Between_Time" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Default_Between_Time" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Counter_Time" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Default_Counter_Time" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="Number_of_elements" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Default_Number_of_elements" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Evaluation_Time" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Default_Evaluation_Time" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Fixation_Cross" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Fixation_Cross" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Keystroke_log" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Keystroke_log" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Random_Sequence" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Default_Random_Sequence" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Fixation_Cross_Time" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Default_Fixation_Cross_Time" Type="System.Decimal" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Collector" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Default_Collector" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
