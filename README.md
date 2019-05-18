@@ -36,14 +36,17 @@ For information on previous releases and version changelists, go [here](https://
 
 ## Prerequisites
 System Requirements
-```
-OS:  Windows XP (SP2 or higher), Vista, 7, 8, 10
-CPU: 1.8 GHz Intel 2 Duo
-RAM: Minimum 256 MB RAM
-STORAGE: 10MB hard drive space
-Windows media player 11
-Windows framework 4.5 (or Higher)
-```
+
+| Package     | Version                                     |
+|-------------|---------------------------------------------|
+| **OS**      | Windows XP (SP2 or higher), Vista, 7, 8, 10 |
+| **CPU**     | 1.8 GHz Intel 2 Duo                         |
+| **RAM**     | Minimum 256 MB RAM                          |
+| **STORAGE** | 10MB hard drive space                       |
+| **WMP**     | Windows media player 11                     |
+| **WF**      | Windows framework 4.5 (or Higher)           |
+
+**Note:** Windows media player and .net framework must be installed
 
 ## Authors
 
