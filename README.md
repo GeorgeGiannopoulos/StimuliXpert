@@ -18,6 +18,22 @@ For information on previous releases and version changelists, go [here](https://
   <img alt="StimuliXpert" src="https://github.com/GeorgeGiannopoulos/StimuliXpert/blob/master/docs/screenshots/main_window.png">
 </p>
 
+## Features:
+- Improves the synchronization between brain signals and the emotional stimulus as presented to the subject
+- Compatibility with a variety of audiovisual files format that can be presented to the subject
+- The subject can describe the arousal and valence of the emotional stimulus in real time
+- StimuliXpert also includes a variety of tools which are included in the **Analysis** window and can be used to process the recorded data
+  - Subdivides waveforms to the five bandwidths: Delta, Theta, Alpha, Beta and Gamma
+  - Calculates the correlation coefficient between EEG signals and Subject's emotional Arousal/Valence
+  - Select between the whole stimulus or per audiovisual file representation
+  - Exports the signal processing results (text or png format)
+- Set Attributes to the audiovisual files
+- Set/Stores recording options
+- Set/Stores experiment options
+- Converts the format of the generated data
+- Selects primary and experiment monitors between multiple ones
+- Controls the experiments (Start, Stop, Pause, Continue)
+
 ## Prerequisites
 System Requirements
 ```
