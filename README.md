@@ -38,4 +38,4 @@ Windows framework 4.5 (or Higher)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © [Georgios Giannopoulos](https://github.com/GeorgeGiannopoulos/StimuliXpert/blob/master/StimuliXpert/LICENSE)
+- Copyright 2019 © [GeorgeGiannopoulos](https://github.com/GeorgeGiannopoulos/StimuliXpert/blob/master/StimuliXpert/LICENSE)
