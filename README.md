@@ -1,6 +1,6 @@
 # StimuliXpert
 
-**StimuliXpert improves the synchronization between EEG signals and emotional stimulus and records the user's emotional arousal & valence in real time**
+**StimuliXpert improves the synchronization between EEG signals and emotional stimulus and helps the user to report the emotional arousal & valence in real time**
 
 The StimuliXpert software was designed to optimize the brain-computer interface cycle:
 - Improves the synchronization between brain signals and the emotional stimulus as presented to the subject
@@ -35,7 +35,7 @@ For information on previous releases and version changelists, go [here](https://
 - Controls the experiments (Start, Stop, Pause, Continue)
 
 ## Prerequisites
-System Requirements
+**System Requirements**
 
 | Package     | Version                                     |
 |-------------|---------------------------------------------|
@@ -46,11 +46,14 @@ System Requirements
 | **WMP**     | Windows media player 11                     |
 | **WF**      | Windows framework 4.5 (or Higher)           |
 
-**Note:** Windows media player and .net framework must be installed
+**Note:** Windows media player and .net framework must be installed.
 
 ## Authors
 
 * **George Giannopoulos** - *Initial work* - [GeorgeGiannopoulos](https://github.com/GeorgeGiannopoulos)
+
+## Wiki
+You can find useful information and instructions in the [wiki](https://github.com/GeorgeGiannopoulos/StimuliXpert/wiki) of the StimuliXpert.
 
 ## License
 
